@@ -1,0 +1,42 @@
+.container {
+    padding: 20px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-body {
+    font-size: 14px;
+}
+
+.description {
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.capital,
+.surface,
+.population {
+    margin-top: 5px;
+}

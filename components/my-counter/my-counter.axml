@@ -1,0 +1,5 @@
+<view>
+  <text>Count: {{count}}</text>
+  <button onTap="increment">Increment</button>
+  <button onTap="decrement">Decrement</button>
+</view>

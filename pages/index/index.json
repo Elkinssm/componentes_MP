@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "my-component": "/components/my-component/my-component",
+    "my-counter": "/components/my-counter/my-counter",
+    "my-component-two": "/components/my-component-two/my-component-two",
+    "my-request-component": "/components/my-request-component/my-request-component"
+  }
+}

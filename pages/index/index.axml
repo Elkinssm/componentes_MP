@@ -1,0 +1,9 @@
+<!--<view class="container"><my-component text="Hola, mundo!"></my-component></view> -->
+
+<!--<view><text>Mi Contador Personalizado</text><my-counter initialCount="10"></my-counter></view> -->
+
+<!--<view class="container"><my-component-two text="Hola, mundo!"></my-component-two></view> -->
+
+<view class="container">
+  <my-request-component></my-request-component>
+</view>

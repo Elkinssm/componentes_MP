@@ -1,0 +1,16 @@
+<view class="container">
+  <text class="title">Departamentos:</text>
+  <block a:for="{{departments}}" a:key="id">
+    <view class="card">
+      <view class="card-header">
+        <text class="name">{{item.name}}</text>
+      </view>
+      <view class="card-body">
+        <text class="description">{{item.description}}</text>
+        <text class="capital">Capital: {{item.cityCapital.name}}</text>
+        <text class="surface">Superficie: {{item.surface}} km²</text>
+        <text class="population">Población: {{item.population}}</text>
+      </view>
+    </view>
+  </block>
+</view>

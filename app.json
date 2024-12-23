@@ -1,0 +1,10 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index",
+    "pages/redirect/redirect"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  }
+}

@@ -1,0 +1,4 @@
+<view class="my-component">
+  <text>{{text}}</text>
+  <button onTap="handleTap">Click Me</button>
+</view>
